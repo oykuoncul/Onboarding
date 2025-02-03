@@ -237,7 +237,7 @@ We highly recommend the [PsyTeachR](https://psyteachr.github.io/) tutorials to g
 
 ## Some Final Words
 
-We encourage you to explore and be integrated within the online scientific community along with us, as this will help you expand your knowledge and skillset as well as become better informed! It may be a steep learning curve initially, but we're here to help you along the way (we've been there ourselves!) and never hesitate to ask questions 😉
+Get ready to explore and be integrated within the online scientific community along with us to expand your knowledge and skillset! It may be a steep learning curve initially, but we're here to help you along the way (we've been there ourselves!) and never hesitate to ask questions 😉
 
 
 ## Edited by
@@ -253,3 +253,4 @@ We encourage you to explore and be integrated within the online scientific commu
 - [Karla Wall](https://github.com/KarlaWall)
 - [Maisie_Bennett](https://github.com/maisiebennett)
 - [Sam Marine](https://github.com/LebombJames)
+- [Oyku Su Oncul](https://github.com/oykuoncul)
